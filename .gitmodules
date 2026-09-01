@@ -1,3 +1,4 @@
 [submodule "react-profile-card"]
 	path = react-profile-card
 	url = https://github.com/Riyo-saito/react-profile-card.git
+	branch = main
